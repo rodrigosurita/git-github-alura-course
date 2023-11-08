@@ -4,5 +4,5 @@
 
 To run the project run...
 ```
-npm install
+node app.js
 ```
