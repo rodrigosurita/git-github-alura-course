@@ -4,5 +4,5 @@
 
 To run the project run...
 ```
-node app.js
+necessary commands to run the project...
 ```
